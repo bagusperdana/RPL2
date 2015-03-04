@@ -1,4 +1,4 @@
 <?php
 	echo "Welcome World";
-	echo "RPL2 here Practice";
+	echo "RPL2 here Latihan";
 ?>
